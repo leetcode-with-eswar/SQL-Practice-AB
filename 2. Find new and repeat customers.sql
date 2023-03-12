@@ -15,6 +15,7 @@ insert into customer_orders values(1,100,'2022-01-01',2000),
 (8,400,'2022-01-03',1000),
 (9,600,'2022-01-03',3000);
 
+
 select * from customer_orders;
 
 
